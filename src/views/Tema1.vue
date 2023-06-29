@@ -25,7 +25,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/2.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.pt-1.pb-3.mb-3 En sí misma, la palabra protocolo encierra una serie de métodos que deben seguirse en la prueba con una serie de pasos bien demarcados, en forma de patrones que reflejan el resultado a esperar en un producto que funciona de acuerdo a lo esperado o proyectado en  el diseño .
+            p.pt-1.pb-3.mb-3 En sí misma, la palabra protocolo encierra una serie de métodos que deben seguirse en la prueba con una serie de pasos bien demarcados, en forma de patrones que reflejan el resultado a esperar en un producto que funciona de acuerdo a lo esperado o proyectado en  el diseño.
 
     p.mb-3(data-aos="fade-left") Existen varios tipos de pruebas que buscan con las variables eléctricas básicas, corriente, voltaje y resistencia, probar las características propias del aparato en búsqueda de posibles fallas o errores en la producción de este. De igual manera, también se debe tener en cuenta las pruebas que pueden realizarse sobre los aspectos mecánicos del equipo para revisar características como la flexibilidad o la resistencia mecánica de los materiales que componen la carcasa.
     p.mt-2.mb-3(data-aos="fade-left") Los principales tipos de pruebas pueden resumirse en la siguiente figura.
@@ -78,16 +78,7 @@
       .col-12.col-md-6.col-lg-5(data-aos="fade-down")
         P Lo primero que se debe señalar es que un protocolo es una serie de pasos, un procedimiento estándar que tiene un orden definido para realizar la tarea. Por lo tanto, el protocolo requiere que su ejecución se haga de manera estricta y contemple las posibles contingencias que se presentan en el camino, junto con los aspectos de seguridad que se deben tener en cuenta tanto para el equipo como para el trabajador ejecutor del protocolo.
         P Cada industria maneja sus propios formatos y documentación para llevar un control de la ejecución del protocolo de pruebas correspondiente, es común ver listas de chequeo donde se detalla el resultado de las respectivas pruebas o tareas a ejecutar en el protocolo. A continuación, en la figura 6 se presenta un ejemplo de una lista de chequeo genérica de un protocolo de pruebas a un producto electrónico.
-        .tarjeta.mt-3.p-3.mb-3
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              figure
-                img(src="@/assets/curso/temas/tema1/7.svg", alt="alt")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0.pt-3
-                  p <b>Anexo</b>. Lista de chequeo genérica de un protocolo.
-      
+    
     p.mt-5.mb-3(data-aos="fade-left") Las unidades de medida fundamentales que se deben tener en cuenta en cualquier protocolo de pruebas de cualquier equipo y en general en la industria, junto con el procedimiento correcto de medida, son las siguientes.
 
     .row

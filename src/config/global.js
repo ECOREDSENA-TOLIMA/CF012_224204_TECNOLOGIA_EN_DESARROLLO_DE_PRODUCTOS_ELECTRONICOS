@@ -82,7 +82,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CFA_12_224204.pdf',
       },
       {
         icono: 'far fa-registered',

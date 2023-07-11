@@ -73,7 +73,7 @@
         .cajon.color-primario.pt-2.px-4.pb-2.caja_flotante_azul
           .row.justify-content-center.align-items-center
             .col.mb-3.mb-sm-0.mt-3
-                p Sin importar la codificación o serial que se ponga en el producto electrónico, este debe garantizar como mínimo que la información que guarde de cuenta de lote, fecha, tipo de producto, etc .
+                p Sin importar la codificación o serial que se ponga en el producto electrónico, este debe garantizar como mínimo que la información que guarde de cuenta de lote, fecha, tipo de producto, etc.
 
     p.mt-5(data-aos="fade-left") Finalmente, todo producto electrónico debe llevar una etiqueta que lo caracterice, donde generalmente se pone la codificación, la cual tiene una segunda función y es dar un elemento de control a la empresa productora, debido a que normalmente estas etiquetas tienen unas características físicas muy especiales que permiten notar si fueron manipuladas por los usuarios. Es decir, que, si un usuario intenta manipular o modificar el equipo y remueve la etiqueta, esta se destruye o se deteriora dando un indicador para los centros de servicio de esta situación, lo que desemboca generalmente en una pérdida de la garantía del equipo.
 

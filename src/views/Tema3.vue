@@ -27,18 +27,20 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.justify-content-center.align-items-center(titulo="Anomalías mecánicas")
         .col-md-4
+          .titulo-sexto.color-acento-contenido.mb-5.offset-lg-2.mb-5.mt-5(data-aos="fade-left")
+            p.titulo.pb-0.mb-0 <b>Figura 9.</b> <i>Sistema de inspección visual que busca defectos estéticos en la carcasa</i>
           figure
             img(src='@/assets/curso/temas/tema3/2.svg', alt='Texto que describa la imagen')
-            figcaption  Figura 9. <i>Sistema de inspección visual que busca defectos estéticos en la carcasa</i> 
         .col-md-6.mb-4.mb-md-0
           p Las anomalías mecánicas se refieren a errores en la fabricación de la carcasa que puede presentar anomalías, fracturas, fisuras, abolladuras que, dependiendo de su gravedad, podrían llegar a afectar la calidad del producto. Por otra parte, se pueden tener anomalías mecánicas en la tarjeta de circuito impreso que pueden ser desde simple desgaste de la pintura antisolder de la tarjeta o fisuras más graves en su estructura, así como anomalías producidas por el proceso térmico, las cuales podrían producir la quemadura de ciertos puntos en la tarjeta que influirá en su desempeño electrónico modificando las propiedades de conducción del circuito. 
           p Las grandes industrias, como las de los productos de consumo electrónico, utilizan para las inspecciones mecánicas, sobre todo las que tienen que ver más con la estética del producto, sistemas de visión artificial que agilizan y automatizan todo este proceso haciéndolo más ágil y eficiente.
 
       .row.justify-content-center.align-items-center(titulo="Anomalías eléctricas")
         .col-md-4
+          .titulo-sexto.color-acento-contenido.mb-5.offset-lg-2.mb-5.mt-5(data-aos="fade-left")
+            p.titulo.pb-0.mb-0 <b>Figura 10.</b> <i>Detección de fallas en circuitos electrónicos</i>
           figure
             img(src='@/assets/curso/temas/tema3/3.svg', alt='Texto que describa la imagen')
-            figcaption Figura 10. <i>Detección de fallas en circuitos electrónicos</i>
         .col-md-6.mb-4.mb-md-0
           p Estas son un poco más difíciles de detectar, ya que estas podrían depender de muchos factores, desde errores del diseño hasta componentes defectuosos que afecten el desempeño del resto del circuito.
           p Algunas empresas, las más grandes, tienen los tan conocidos sistemas de cama de agujas que ejecutan pruebas del tipo VI con las que generan patrones de señales que permiten hacer una búsqueda exhaustiva de la zona donde probablemente se encuentre la anomalía.

@@ -59,7 +59,7 @@
               figure
                 img(src="@/assets/curso/temas/tema1/5.jpg", alt="alt")
             .col-md-9.col-12.mb-0.mb-md-0.pt-3
-              p El <em>software</em> que los controla es muy complejo, y cada vez que se cambia de tarjeta, las agujas deben ser reacomodadas o cambiadas, y por supuesto los parámetros eléctricos las graficas y demás también. Este tipo de equipos son comunes solo en las grandes empresas ya que su costo es muy elevado y su operación requiere personal altamente calificado para interpretar las graficas obtenidas por el <em>software</em>.
+              p El <em>software</em> que los controla es muy complejo, y cada vez que se cambia de tarjeta, las agujas deben ser reacomodadas o cambiadas, y por supuesto los parámetros eléctricos las gráficas y demás también. Este tipo de equipos son comunes solo en las grandes empresas, ya que su costo es muy elevado y su operación requiere personal altamente calificado para interpretar las gráficas obtenidas por el <em>software</em>.
               
           .row(numero="3" titulo="Resistencia mecánica de los materiales")
             .col-md-12.mb-4.mb-md-0
@@ -67,7 +67,7 @@
           .row(numero="4" titulo="Desempeño mecánico bajo condiciones adversas")
             .col-md-12.mb-4.mb-md-0   
               p Aunque puede que la resistencia mecánica de la estructura del equipo resista peso o golpes, no quiere decir que el equipo esté preparado para trabajar bajo cualquier condición que se le imponga. 
-              p Las empresas productoras están en la obligación de dar las capacidades máximas de cada equipo no solo en condiciones eléctricas de corriente y voltaje si no también en el comportamiento del mismo en condiciones extremas, como calor, frio, vibración constante o ambientes explosivos, generalmente esto se evalúa en equipos de clase industrial o militar.
+              p Las empresas productoras están en la obligación de dar las capacidades máximas de cada equipo no solo en condiciones eléctricas de corriente y voltaje sino también en el comportamiento del mismo en condiciones extremas, como calor, frío, vibración constante o ambientes explosivos, generalmente esto se evalúa en equipos de clase industrial o militar.
 
     p.mt-5.mb-3(data-aos="fade-left") Los protocolos de las pruebas dependen de varios factores diversos, que pueden ir desde las características propias del producto, como su función, tipo de producto, hasta las políticas propias de la empresa productora; esto también influye en el equipo de pruebas requerido. No existen protocolos de prueba con un estándar que funcione al 100 % para productos electrónicos diferentes, sin embargo, se describe a continuación un protocolo genérico que cubre los mínimos aspectos requeridos por cualquier producto electrónico bajo prueba.
 
@@ -151,7 +151,7 @@
         .cajon.color-primario.pt-2.px-4.pb-2.caja_flotante_azul
           .row.justify-content-center.align-items-center
             .col.mb-3.mb-sm-0.mt-3
-                p Cuando se practican las pruebas a un equipo en específico dentro del protocolo se debe contar con la información de los parámetros y rangos de las medidas que permitan determinar cuándo hay un posible defecto del equipo. Estos datos son usados como un patrón que nos demarca la calidad de cada uno .
+                p Cuando se practican las pruebas a un equipo en específico dentro del protocolo se debe contar con la información de los parámetros y rangos de las medidas que permitan determinar cuándo hay un posible defecto del equipo. Estos datos son usados como un patrón que nos demarca la calidad de cada uno.
       
     p.mt-3.mb-3(data-aos="fade-left") Ahora bien, los rangos de funcionamiento también dependen de la naturaleza del equipo y de su propio diseño. Todo equipo electrónico normalmente lleva una placa o las especificaciones impresas en su carcaza, estas cubren los aspectos mínimos, como la naturaleza de su alimentación, consumo y frecuencia de operación de la fuente si es el caso. 
 
@@ -167,7 +167,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/14.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.pt-1.pb-3.mb-3 En elementos como las fuentes y cargadores se puede observar un claro ejemplo de ello. Por ejemplo, se puede analizar en un cargador o adaptador la entrada de voltaje entre 100 a 240 VAC y frecuencia de 50 a 60Hz con un consumo de 1,5A y una salida de 20VDC y 4,5A su potencia es de 90W. Estos rangos de funcionamiento son propios de este modelo de cargador. Si se compra otro tipo es muy probable que estos datos cambien .
+            p.pt-1.pb-3.mb-3 En elementos como las fuentes y cargadores se puede observar un claro ejemplo de ello. Por ejemplo, se puede analizar en un cargador o adaptador la entrada de voltaje entre 100 a 240 VAC y frecuencia de 50 a 60Hz con un consumo de 1,5A y una salida de 20VDC y 4,5A su potencia es de 90W. Estos rangos de funcionamiento son propios de este modelo de cargador. Si se compra otro tipo es muy probable que estos datos cambien.
 
     p.mb-3(data-aos="fade-left") Dentro del proceso de pruebas de los productos electrónicos es de fundamental importancia tener en cuenta las medidas mínimas de seguridad y salud en el trabajo. A continuación, en la siguiente figura se presentan aquellos elementos de protección personal y de integridad del equipo.
 
